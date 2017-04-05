@@ -7,8 +7,15 @@ h1{
 	min-height: 100px;
 	background-color: blue;
 }
+<<<<<<< HEAD
 .nav2{
 	min-width: 500px;
 	min-height: 100px;
 	background-color: red;
+=======
+.nav3{
+	min-width: 500px;
+	min-height: 100px;
+	background-color: green;
+>>>>>>> testing
 }
